@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DQ7Tools",
   "resources": {
-    "hash": "sha256-DjPf7kH9BKDmw2FvFV8znhX+78wPfb4JUM0KXn6iXe4=",
+    "hash": "sha256-Zs/V10YVxaQO3iD334sOlVi+3jd6ab4YcpaC3r5shus=",
     "jsModuleNative": {
       "dotnet.native.8.0.7.adthsh76k3.js": "sha256-tFsxPBbhkdn6GKNBKvCRLzrfAHdyM86odYTe0MtrwMk="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "DQ7Tools.wasm": "sha256-5zkuV6Keo3S4LXUasCWsRhv1o/hZtae/rdDfbia+LcY=",
+      "DQ7Tools.wasm": "sha256-UJtZ3FZdZN1i6ApQiZV5U+J6GLahaFL239V+peZ2egw=",
       "Microsoft.AspNetCore.Components.QuickGrid.wasm": "sha256-gom2irJ7OxLpmDv3a4Lukm7Pg/agB3clnKUVmtOVotg=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-YDk0QhNj+/aN0JvddbxIN/ByAQSEDS0pAq0gqJ1T56w=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-xXNbGtqJoSTTdIThOrO1ALvKHsTWub6CGSigHZmy8MY=",
